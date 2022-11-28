@@ -9,6 +9,13 @@ Change this text to be a brief description of your final project.
 Put the name of your project in the header above.
 You will change everything below to be the main technical documentation, as outlined below.
 
+## Setup Instructions
+1. Clone the repository. 
+2. `npm install` - Install dependencies for your package.
+3. `npm start` - Start app.
+4. Navigate to localhost:5555/
+
+
 ## First steps
 
 Other steps that you will need to take after your team has accepted the assignment:
