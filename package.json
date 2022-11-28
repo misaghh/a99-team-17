@@ -1,0 +1,24 @@
+{
+  "name": "a99-team-17",
+  "version": "1.0.0",
+  "description": "Group 17's Final Project for COMP 426",
+  "main": "server.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "node server.js --port=5555",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-fall/a99-team-17.git"
+  },
+  "author": "mariana-perezh",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-fall/a99-team-17/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-fall/a99-team-17#readme",
+  "type": "module"
+}
