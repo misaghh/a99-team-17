@@ -24,6 +24,7 @@ Other steps that you will need to take after your team has accepted the assignme
 10. Use **Issues** to identify and track bugs and also to communicate about various aspects of the project.
 
 ## Team mangement
+Team management details can be found [roles.md](\docs\roles.md).
 
 Plan to meet with your team ASAP.
 Talk through identifying roles within your team.
